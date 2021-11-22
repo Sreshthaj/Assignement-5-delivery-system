@@ -111,6 +111,7 @@ public class CustomerAreaJPanel extends javax.swing.JPanel {
         setForeground(new java.awt.Color(255, 255, 255));
 
         restaurentTablee.setFont(new java.awt.Font("Lucida Grande", 3, 12)); // NOI18N
+        restaurentTablee.setForeground(new java.awt.Color(0, 51, 51));
         restaurentTablee.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null},
